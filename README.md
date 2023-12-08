@@ -70,9 +70,11 @@ Three basic guidelines
 
 ## 2. Chat Completions
 Can be found in ChatCompletion File
-It is a simple Java and HTML program to fetch responses from chatGPT for Chat API
+It is a simple JavaScript and HTML program to fetch responses from chatGPT for Chat API
 
 ## 3. Chat Completion Project 1 | JavaScript
+Can be found in ChatCompletion File
+It is a simple JavaScript, HTML, and CSS program to fetch responses from chatGPT for Chat API
 
 ## 4. Chat Completion Project 2 | React + Node.js
 
