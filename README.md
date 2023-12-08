@@ -57,12 +57,20 @@ Whisper
 
 ### Text Completions
 Can be found in TextCompletion File
-It is a simple Java and HTML program to fetch responses from chatGPT
+It is a simple Java and HTML program to fetch responses from chatGPT for completion API
 
 ### Creating effective prompts
-
+Three basic guidelines
+- Show and Tell
+    Lead by providing an example of what you want
+- Provide quality data
+    Be sure to proofread your examples
+- Check your settings
+    the temperature and top_p settings control how deterministic the model is in generating a response
 
 ## 2. Chat Completions
+Can be found in ChatCompletion File
+It is a simple Java and HTML program to fetch responses from chatGPT for Chat API
 
 ## 3. Chat Completion Project 1 | JavaScript
 
