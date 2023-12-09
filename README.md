@@ -73,7 +73,7 @@ Can be found in ChatCompletion File
 It is a simple JavaScript and HTML program to fetch responses from chatGPT for Chat API
 
 ## 3. Chat Completion Project 1 | JavaScript
-Can be found in ChatCompletion File
+Can be found in JavaScript-ChatGPT-Clone File
 It is a simple JavaScript, HTML, and CSS program to fetch responses from chatGPT for Chat API
 
 ## 4. Chat Completion Project 2 | React + Node.js 
@@ -88,6 +88,12 @@ Can be found in [ChatGPT-Clone](https://github.com/AmrMekki/ChatGPT-Clone)
 ## 8. Image Edits
 
 ## 9. Image Generation Project 1 | JavaScript
+
+Can be found in JavaScript-DallE-Clone File
+It is a simple JavaScript, HTML, and CSS program to fetch responses from chatGPT for image generation API
+
+
+using app.haikei.app for backgrounds SVG
 
 ## 10. Image Generation Project 2 | React + Node.js + openai npm library
 
