@@ -76,7 +76,8 @@ It is a simple JavaScript and HTML program to fetch responses from chatGPT for C
 Can be found in ChatCompletion File
 It is a simple JavaScript, HTML, and CSS program to fetch responses from chatGPT for Chat API
 
-## 4. Chat Completion Project 2 | React + Node.js
+## 4. Chat Completion Project 2 | React + Node.js 
+Can be found in [ChatGPT-Clone](https://github.com/AmrMekki/ChatGPT-Clone)
 
 ## 5. DALL-E Model
 
