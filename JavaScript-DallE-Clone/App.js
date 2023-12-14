@@ -1,4 +1,4 @@
-const API_KEY = "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";
+const API_KEY = ""; //DELETED
 
 const submitIcon = document.querySelector("#submit-icon");
 const inputElement = document.querySelector("input");
